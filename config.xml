@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://www.scatmania.org/opera-keepass">
+  <name>KeePass Auto-Type for Opera 12</name>
+  <description>Puts the full path of the page you're viewing into the address bar, to allow KeePass's Auto-Type function to work. This used to be possible from User Preferences before Opera 12, but now requires this extension.</description>
+  <author href="http://www.scatmania.org/" email="dan@scatmania.org">Dan Q</author>
+  <icon src="icon.png"/>
+</widget>
