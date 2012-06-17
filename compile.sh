@@ -1,2 +1,3 @@
 #!/bin/bash
-zip keepass-opera.oex * -x README.md .git compile.sh *~
+rm keepass-opera.oex
+zip -r keepass-opera.oex * -x README.md .git compile.sh *~
